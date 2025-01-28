@@ -1,7 +1,7 @@
 # 💫 About Me:
-High school student "Systems development"
+Junior Developer
 <br><br>
-I'm 17 years old
+I'm 18 years old
 <br><br>
 I'm Brazilian
 
