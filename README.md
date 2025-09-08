@@ -1,5 +1,5 @@
 # 💫 About Me:
-Junior Developer
+FrontEnd Developer
 <br><br>
 I'm 18 years old
 <br><br>
