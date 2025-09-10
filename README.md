@@ -2,10 +2,10 @@
 👋 Hi, I'm Ismael Costa Amex Macal  
 💻 Front-End Developer | 18y | Brazilian 🇧🇷  
 
-Atuo como **Desenvolvedor Front-End**, especializado em **React, Angular, TypeScript e JavaScript**, com experiência no desenvolvimento de aplicações escaláveis e de alta performance.  
-Tenho forte atuação em **projetos de e-commerce e plataformas digitais**, com foco em **UI/UX, acessibilidade (ARIA), componentização, design system e performance**.  
+I work as a **Front-End Developer**, with knowledge in **React, Angular, TypeScript, and JavaScript**, and experience in building scalable and high-performance applications.  
+I have strong expertise in **e-commerce projects and digital platforms**, focusing on **UI/UX, accessibility (ARIA), componentization, design systems, and performance**.  
 
-Busco constantemente aplicar práticas modernas de desenvolvimento, aliando **código limpo, semântica e design de qualidade** para entregar experiências digitais robustas e intuitivas.
+I am constantly seeking to apply modern development practices, combining **clean code, semantic structure, and quality design** to deliver robust and intuitive digital experiences.
 
 ---
 
